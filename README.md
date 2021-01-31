@@ -16,6 +16,8 @@
 
 # Score (Lastest)
 
+> **~17.8M**
+
 ![Alt text](https://github.com/monkeymc/pc-re-dive/blob/main/img/previous-1.png)
 
 ![Alt text](https://github.com/monkeymc/pc-re-dive/blob/main/img/previous-2.png)
