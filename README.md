@@ -16,7 +16,7 @@
 
 # Score (Lastest)
 
-> **In Progress**
+> **22,022,510 (12,453,533)**
 
 ![Alt text](https://github.com/monkeymc/pc-re-dive/blob/main/img/previous-1.png)
 
