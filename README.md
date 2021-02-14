@@ -27,3 +27,7 @@
 ![Alt text](https://github.com/monkeymc/pc-re-dive/blob/main/img/previous-4.png)
 
 ![Alt text](https://github.com/monkeymc/pc-re-dive/blob/main/img/previous-5.png)
+
+![Alt text](https://github.com/monkeymc/pc-re-dive/blob/main/img/previous-6.1.png)
+
+![Alt text](https://github.com/monkeymc/pc-re-dive/blob/main/img/previous-6.2.png)
